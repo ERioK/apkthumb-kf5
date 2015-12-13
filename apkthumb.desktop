@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+Encoding=UTF-8
+Name=Android Application Package
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=application/vnd.android.package-archive;
+CacheThumbnail=True
+IgnoreMaximumSize=true
+X-KDE-Library=apkthumb
